@@ -1,4 +1,4 @@
 # MyProject
 HELLO WORLD
-1. TEST
-2. TEST
+1. Nama Danny
+2. Umur 18
